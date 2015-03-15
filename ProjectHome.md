@@ -1,0 +1,2 @@
+![http://liris.cnrs.fr/~dcoeurjo/Publications/Thumb/cube20_RDMA.png](http://liris.cnrs.fr/~dcoeurjo/Publications/Thumb/cube20_RDMA.png)
+![http://learndatamodeling.com/images/datamodels/snow_flake.gif](http://learndatamodeling.com/images/datamodels/snow_flake.gif)
